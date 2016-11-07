@@ -1,0 +1,31 @@
+/* Pon tu código css aqui */
+.box1,.box2,.box3,.box4{
+	width:200px;
+	height:200px;
+	position:absolute;
+
+}
+
+body{
+	margin: 0;
+	padding: 0;
+}
+
+.box1{
+	background:#ee3e64;
+
+}
+.box2{
+	background:#44accf;
+	right: 0;
+}
+.box3{
+	background:#b7d84b;
+	left: 0;
+	bottom: 0;
+}
+.box4{
+	background:yellow;
+	right: 0;
+	bottom: 0;
+}
