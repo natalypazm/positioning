@@ -13,6 +13,7 @@ body{
 
 .box1{
 	background:#ee3e64;
+	left: 300px;
 
 }
 .box2{
@@ -21,4 +22,5 @@ body{
 }
 .box3{
 	background:#b7d84b;
+	top: 60px;
 }
